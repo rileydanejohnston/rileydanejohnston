@@ -16,7 +16,7 @@ A news site where users can search for news, create an account and save articles
 * [Live site](https://my-news-explorer.students.nomoreparties.sbs/)
 * [Frontend Repo](https://github.com/rileydanejohnston/news-explorer-frontend)
 * [Backend Repo](https://github.com/rileydanejohnston/news-explorer-backend)
-* Demo - UNDER CONSTRUCTION
+* [Demo](https://www.loom.com/share/15c90be6c7cc4f018fda792be4a1f7b0?sharedAppSource=personal_library)
 ![preview of News Explorer main page](./images/newsExplorer-full-cropped.png)
 
 <br><br>
