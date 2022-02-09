@@ -1,6 +1,6 @@
 # Hi, I'm Riley Johnston
 
-I'm a full stack web developer. I graduated the Practicum by Yandex web development course in January of 2022. I like building web applications with the MERN stack. I'm also learning C++ through Glendale Community College. I also like riding my bike, podcasts, movies, and all things science/entrepreneurship.
+Full stack web developer with two MERN projects deployed with Google Cloud. Passionate about turning new ideas into applications with frontend and backend technologies. Upcoming projects include a portfolio and a farm inventory tracker. I also like riding my bike, podcasts, movies, and all things science/entrepreneurship.
 <br><br>
 
 ## Contact Info
