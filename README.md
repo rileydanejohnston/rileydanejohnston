@@ -1,6 +1,6 @@
 # Hi, I'm Riley Johnston
 
-Full stack web developer with two MERN projects deployed with Google Cloud. Passionate about turning new ideas into applications with frontend and backend technologies. Upcoming projects include a portfolio and a farm inventory tracker. I also like riding my bike, podcasts, movies, and all things science/entrepreneurship.
+Full stack software engineer with two MERN projects deployed with Google Cloud. Passionate about turning new ideas into applications with frontend and backend technologies. Upcoming projects include a portfolio and a farm inventory tracker. I also like riding my bike, podcasts, movies, and all things science/entrepreneurship.
 <br><br>
 
 ## Contact Info
