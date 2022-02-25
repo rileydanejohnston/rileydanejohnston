@@ -1,14 +1,23 @@
 # Hi, I'm Riley Johnston
 
-Full stack software engineer with two MERN projects deployed with Google Cloud. Passionate about turning new ideas into applications with frontend and backend technologies. Upcoming projects include a portfolio and a farm inventory tracker. I also like riding my bike, podcasts, movies, and all things science/entrepreneurship.
+Full stack software engineer with two MERN projects deployed with Google Cloud. Passionate about turning new ideas into applications with frontend and backend technologies. Upcoming projects include a carbon emissions tracker and a homepage for a company eliminating single-use plastics in the restaurant industry. I also like riding my bike, podcasts, movies, and all things science/entrepreneurship.
 <br><br>
 
 ## Contact Info
-* rileydanejohnston@gmail.com
+* [Portfolio](https://rileydanejohnston.com/)
 * [LinkedIn](https://www.linkedin.com/in/rileyjohnston/)
 * [AngelList](https://angel.co/u/riley-johnston)
 * [Climatebase](https://climatebase.org/profile/57414)
 * [Twitter](https://twitter.com/RileyDJohnston)
+* rileydanejohnston@gmail.com
+<br><br>
+
+## Portfolio
+My homepage that showcases who I am and what I've done.
+* [Live site](https://rileydanejohnston.com/)
+* [Repo](https://github.com/rileydanejohnston/portfolio)
+![preview of portfolio main page](./images/portfolio-main.png)
+
 <br><br>
 
 ## News Explorer
