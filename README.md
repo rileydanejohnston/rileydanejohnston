@@ -16,6 +16,7 @@ Full stack software engineer with two MERN projects deployed with Google Cloud. 
 My homepage that showcases who I am and what I've done.
 * [Live site](https://rileydanejohnston.com/)
 * [Repo](https://github.com/rileydanejohnston/portfolio)
+* [Demo](https://www.loom.com/share/4516c4096aea454c99c6410116f9f196)
 ![preview of portfolio main page](./images/portfolio-main.png)
 
 <br><br>
